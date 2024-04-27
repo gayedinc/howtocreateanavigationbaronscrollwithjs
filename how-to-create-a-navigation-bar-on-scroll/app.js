@@ -78,22 +78,3 @@ scrollLinks.forEach((link) => { //scrollLinks koleksiyonundaki her bir bağlant�
     });
 
 });
-
-
-
-
-
-/* getBoundingClientRect() fonksiyonu, bir DOM öğesinin boyutlarına ve konumuna ilişkin bilgileri içeren bir DOMRect objesi döndüren bir JavaScript metodudur. Bu bilgiler, öğenin viewport'a (görünüm penceresi) göre olan pozisyonunu ve boyutlarını içerir.
-
-DOMRect objesi aşağıdaki bilgileri içerir:
-
-x: Sol üst köşenin x koordinatı.
-y: Sol üst köşenin y koordinatı.
-width: Öğenin genişliği.
-height: Öğenin yüksekliği.
-top: Sol üst köşenin viewport'tan olan dikey mesafesi.
-right: Sağ üst köşenin viewport'tan olan yatay mesafesi.
-bottom: Sağ alt köşenin viewport'tan olan dikey mesafesi.
-left: Sol alt köşenin viewport'tan olan yatay mesafesi.
-Bu bilgiler, özellikle bir öğenin konumunu ve boyutunu programatik olarak hesaplamak veya başka öğelerle ilişkilendirmek için kullanılır.
-getBoundingClientRect() genellikle animasyonlar, olay dinleme, ve sayfa üzerinde dinamik konumlandırma işlemleri gibi senaryolarda yaygın olarak kullanılır. */
